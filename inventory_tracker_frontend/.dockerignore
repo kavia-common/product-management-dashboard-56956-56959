@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+
+.env
+.env.*
+
+.git/
+.gitignore
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
